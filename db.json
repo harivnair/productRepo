@@ -1,54 +1,52 @@
 [
-      {
-        'productId': 1,
-        'productName': 'Leaf Rake',
-        'productCode': 'GDN-0011',
-        'releaseDate': 'March 19, 2016',
-        'description': 'Leaf rake with 48-inch wooden handle.',
-        'price': 19.95,
-        'starRating': 3.2,
-        // tslint:disable-next-line:max-line-length
-        'imageUrl': 'data:image/jpeg;base64,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'
-      },
-      {
-        'productId': 2,
-        'productName': 'Garden Cart',
-        'productCode': 'GDN-0023',
-        'releaseDate': 'March 18, 2016',
-        'description': '15 gallon capacity rolling garden cart',
-        'price': 32.99,
-        'starRating': 4.2,
-        'imageUrl': 'https://www.goodfreephotos.com/albums/vector-images/shopping-cart-vector-clipart.png'
-      },
-      {
-        'productId': 5,
-        'productName': 'Hammer',
-        'productCode': 'TBX-0048',
-        'releaseDate': 'May 21, 2016',
-        'description': 'Curved claw steel hammer',
-        'price': 8.9,
-        'starRating': 4.8,
-        'imageUrl': 'http://actors9.com/wp-content/uploads/2018/04/clever-hammer-clipart-and-nail-outline-free-clip-art.png'
-      },
-      {
-        'productId': 8,
-        'productName': 'Saw',
-        'productCode': 'TBX-0022',
-        'releaseDate': 'May 15, 2016',
-        'description': '15-inch steel blade hand saw',
-        'price': 11.55,
-        'starRating': 3.7,
-        // tslint:disable-next-line:max-line-length
-        'imageUrl': 'https://media.istockphoto.com/vectors/saw-tool-icon-vector-id509918751?k=6&m=509918751&s=612x612&w=0&h=gbfGr_BJIO8WOFZ5FTWYhh_EimVVtEGZ8qiEz0Ny77Q='
-      },
-      {
-        'productId': 10,
-        'productName': 'Video Game Controller',
-        'productCode': 'GMG-0042',
-        'releaseDate': 'October 15, 2015',
-        'description': 'Standard two-button video game controller',
-        'price': 35.95,
-        'starRating': 4.6,
-        'imageUrl': 'http://getdrawings.com/images/video-game-controller-drawing-18.jpg'
-      }
-    ]
+  {
+    "productId": 1,
+    "productName": "Leaf Rake",
+    "productCode": "GDN-0011",
+    "releaseDate": "March 19, 2016",
+    "description": "Leaf rake with 48-inch wooden handle.",
+    "price": 19.95,
+    "starRating": 3.2,
+    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+  },
+  {
+    "productId": 2,
+    "productName": "Garden Cart",
+    "productCode": "GDN-0023",
+    "releaseDate": "March 18, 2016",
+    "description": "15 gallon capacity rolling garden cart",
+    "price": 32.99,
+    "starRating": 4.2,
+    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+  },
+  {
+    "productId": 5,
+    "productName": "Hammer",
+    "productCode": "TBX-0048",
+    "releaseDate": "May 21, 2016",
+    "description": "Curved claw steel hammer",
+    "price": 8.9,
+    "starRating": 4.8,
+    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png"
+  },
+  {
+    "productId": 8,
+    "productName": "Saw",
+    "productCode": "TBX-0022",
+    "releaseDate": "May 15, 2016",
+    "description": "15-inch steel blade hand saw",
+    "price": 11.55,
+    "starRating": 3.7,
+    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png"
+  },
+  {
+    "productId": 10,
+    "productName": "Video Game Controller",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2015",
+    "description": "Standard two-button video game controller",
+    "price": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+  }
+]
