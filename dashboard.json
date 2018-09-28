@@ -1,12 +1,11 @@
 {
-   "1":{
+   "id":"1",
+   "body":{
       "headerLogo":{
          "routerLink":"#",
          "image":"test",
          "label":"Logo2"
-      }
-   },
-   "2":{
+      },
       "loggedUser":{
          "userImage":"imagePath",
          "name":"Harikrishnan V",
@@ -19,11 +18,11 @@
             ],
             "label":"dummy2"
          }
-      }
-   },
-   "primaryNavigation":null,
-   "secondaryNavigation":null,
-   "breadCrumb":null,
-   "content":null,
-   "footer":null
+      },
+      "primaryNavigation":null,
+      "secondaryNavigation":null,
+      "breadCrumb":null,
+      "content":null,
+      "footer":null
+   }
 }
