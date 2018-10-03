@@ -19,15 +19,15 @@
             "label":"dummy2"
          }
       },
-      "primaryNavigation":{
-      "subHeader":"LAYOUT",
-       "isSubHeader": false,
+      "primaryNavigation":[{
+      "subHeader":"layout",
+       "isSubHeader": true,
         "menu":{
         "label":"dummy",
          "routerLink":"#",
           "styleClass":["dumm","dumm2"],
              "isSubMenu": false,
-           "subMenu":{
+           "subMenu":[{
               
             "routerLink":"#",
             "styleClass":[
@@ -35,9 +35,37 @@
                "dummy2"
             ],
             "label":"dummy2"
+           },
+                     {
+              
+            "routerLink":"#",
+            "styleClass":[
+               "dummy1",
+               "dummy2"
+            ],
+            "label":"dummy2"
+           }]
+        }
+      },{
+      "subHeader":"options",
+       "isSubHeader": true,
+        "menu":{
+        "label":"dummy2",
+         "routerLink":"#",
+          "styleClass":["dumm2","dumm22"],
+             "isSubMenu": false,
+           "subMenu":{
+              
+            "routerLink":"#",
+            "styleClass":[
+               "dummy12",
+               "dummy22"
+            ],
+            "label":"dummy2"
            }
         }
-      },
+      }
+                          ],
       "secondaryNavigation":null,
       "breadCrumb":null,
       "content":null,
