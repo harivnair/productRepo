@@ -19,7 +19,25 @@
             "label":"dummy2"
          }
       },
-      "primaryNavigation":null,
+      "primaryNavigation":{
+      "subHeader":"LAYOUT",
+       "isSubHeader": false,
+        "menu":{
+        "label":"dummy",
+         "routerLink":"#",
+          "styleClass":["dumm","dumm2"],
+             "isSubMenu": false,
+           "subMenu":{
+              
+            "routerLink":"#",
+            "styleClass":[
+               "dummy1",
+               "dummy2"
+            ],
+            "label":"dummy2"
+           }
+        }
+      },
       "secondaryNavigation":null,
       "breadCrumb":null,
       "content":null,
