@@ -6,7 +6,7 @@
          "image":"test",
          "label":"Logo2"
       },
-      "loggedUser":{
+      "loggedUserInfo":{
          "userImage":"imagePath",
          "name":"Harikrishnan V",
          "designation":"Asst.Manager",
