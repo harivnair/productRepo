@@ -20,7 +20,7 @@
          }
       },
       "primaryNavigation":[{
-      "subHeader":"layout",
+      "subHeader":"Layout",
        "isSubHeader": true,
         "menu":{
         "label":"dummy",
