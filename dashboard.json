@@ -3,11 +3,11 @@
    "body":{
       "headerLogo":{
          "routerLink":"#",
-         "image":"test",
+         "image":"assets/img/logo.svg",
          "label":"Logo2"
       },
       "loggedUserInfo":{
-         "userImage":"imagePath",
+         "userImage":"assets/img/avatar1.jpg",
          "name":"Harikrishnan V",
          "designation":"Asst.Manager",
          "userControls":{
