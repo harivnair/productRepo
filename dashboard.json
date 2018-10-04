@@ -53,7 +53,7 @@
         "label":"dummy2",
          "routerLink":"#",
           "styleClass":["dumm2","dumm22"],
-             "isSubMenu": false,
+             "isSubMenu": true,
            "subMenu":{
               
             "routerLink":"#",
