@@ -1,0 +1,74 @@
+{
+   "id":"1",
+   "body":{
+      "headerLogo":{
+         "routerLink":"#",
+         "image":"assets/img/logo.svg",
+         "label":"EE dashboard"
+      },
+      "loggedUserInfo":{
+         "userImage":"assets/img/avatar1.jpg",
+         "name":"Harikrishnan V",
+         "designation":"Admin",
+         "userControls":{
+            "routerLink":"#",
+            "styleClass":[
+               "dummy1",
+               "dummy2"
+            ],
+            "label":"dummy2"
+         }
+      },
+      "primaryNavigation":[{
+      "subHeader":"layout",
+       "isSubHeader": true,
+        "menu":{
+        "label":"dummy",
+         "routerLink":"#",
+          "styleClass":["dumm","dumm2"],
+             "isSubMenu": false,
+           "subMenu":[{
+              
+            "routerLink":"#",
+            "styleClass":[
+               "dummy1",
+               "dummy2"
+            ],
+            "label":"dummy2"
+           },
+                     {
+              
+            "routerLink":"#",
+            "styleClass":[
+               "dummy1",
+               "dummy2"
+            ],
+            "label":"dummy2"
+           }]
+        }
+      },{
+      "subHeader":"options",
+       "isSubHeader": true,
+        "menu":{
+        "label":"dummy2",
+         "routerLink":"#",
+          "styleClass":["dumm2","dumm22"],
+             "isSubMenu": false,
+           "subMenu":{
+              
+            "routerLink":"#",
+            "styleClass":[
+               "dummy12",
+               "dummy22"
+            ],
+            "label":"dummy2"
+           }
+        }
+      }
+                          ],
+      "secondaryNavigation":null,
+      "breadCrumb":null,
+      "content":null,
+      "footer":null
+   }
+}
