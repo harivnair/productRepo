@@ -67,19 +67,19 @@
       }
                           ],
       "secondaryNavigation":{
-      searchElement:{
+      "searchElement":{
          
       },
-       messages:{
-       count:"1",
-       imessages:[{
-             "userAvatar": "image"
+       "messages":{
+       "count":"1",
+       "imessages":[{
+             "userAvatar": "image",
         "fromUser":"Rajesh Arora",
          "subjectTitle":"Accounts Updates",
           "hyperLink":"#"
-          }],
+          }]
           
-       }  ,
+       },
          "notifications":{
           "count":"1",
           "inotifications":[{
@@ -98,7 +98,7 @@
             "label":"dummy2"
          }]
           },
-          userControl:{
+          "userControl":{
              
          "userImage":"assets/img/avatar1.jpg",
          "name":"Harikrishnan V",
