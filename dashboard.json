@@ -54,7 +54,7 @@
          "routerLink":"#",
           "styleClass":["dumm2","dumm22"],
              "isSubMenu": true,
-           "subMenu":{
+           "subMenu":[{
               
             "routerLink":"#",
             "styleClass":[
@@ -62,7 +62,7 @@
                "dummy22"
             ],
             "label":"dummy2"
-           }
+           }]
         }
       }
                           ],
