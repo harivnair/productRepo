@@ -1,121 +1,110 @@
 {
-   "id":"1",
-   "body":{
-      "headerLogo":{
-         "routerLink":"#",
-         "image":"assets/img/logo.svg",
-         "label":"Logo2"
-      },
-      "loggedUserInfo":{
-         "userImage":"assets/img/avatar1.jpg",
-         "name":"Harikrishnan V",
-         "designation":"Asst.Manager",
-         "userControls":{
-            "routerLink":"#",
-            "styleClass":[
-               "dummy1",
-               "dummy2"
-            ],
-            "label":"dummy2"
-         }
-      },
-      "primaryNavigation":[{
-      "subHeader":"Layout",
-       "isSubHeader": true,
-        "menu":{
-        "label":"dummy",
-         "routerLink":"#",
-          "styleClass":["dumm","dumm2"],
-             "isSubMenu": true,
-           "subMenu":[{
-              
-            "routerLink":"#",
-            "styleClass":[
-               "dummy1",
-               "dummy2"
-            ],
-            "label":"dummy2"
-           },
-                     {
-              
-            "routerLink":"#",
-            "styleClass":[
-               "dummy1",
-               "dummy2"
-            ],
-            "label":"dummy2"
-           }]
+  "id": "1",
+  "body": {
+    "headerLogo": {
+      "hyperLink": "#",
+      "image": "assets/img/logo.svg",
+      "label": "Logo2"
+    },
+    "loggedUserInfo": {
+      "userImage": "assets/img/avatar1.jpg",
+      "name": "Harikrishnan V",
+      "designation": "Asst.Manager",
+      "userControls": [
+        {
+          "hyperLink": "#",
+          "styleClass": ["dummy1", "dummy2"],
+          "label": "dummy2"
         }
-      },{
-      "subHeader":"options",
-       "isSubHeader": true,
-        "menu":{
-        "label":"dummy2",
-         "routerLink":"#",
-          "styleClass":["dumm2","dumm22"],
-             "isSubMenu": true,
-           "subMenu":[{
-              
-            "routerLink":"#",
-            "styleClass":[
-               "dummy12",
-               "dummy22"
-            ],
-            "label":"dummy2"
-           }]
+      ]
+    },
+    "primaryNavigation": [
+      {
+        "subHeader": "Layout",
+        "isSubHeader": true,
+        "menu": {
+          "label": "dummy",
+          "hyperLink": "#",
+          "styleClass": ["dumm", "dumm2"],
+          "isSubMenu": true,
+          "subMenu": [
+            {
+              "hyperLink": "#",
+              "styleClass": ["dummy1", "dummy2"],
+              "label": "dummy2"
+            },
+            {
+              "hyperLink": "#",
+              "styleClass": ["dummy1", "dummy2"],
+              "label": "dummy2"
+            }
+          ]
+        }
+      },
+      {
+        "subHeader": "options",
+        "isSubHeader": true,
+        "menu": {
+          "label": "dummy2",
+          "hyperLink": "#",
+          "styleClass": ["dumm2", "dumm22"],
+          "isSubMenu": true,
+          "subMenu": [
+            {
+              "hyperLink": "#",
+              "styleClass": ["dummy12", "dummy22"],
+              "label": "dummy2"
+            }
+          ]
         }
       }
-                          ],
-      "secondaryNavigation":{
-      "searchElement":{
-         
-      },
-       "messages":{
-       "count":"1",
-       "imessages":[{
-             "userAvatar": "image",
-        "fromUser":"Rajesh Arora",
-         "subjectTitle":"Accounts Updates",
-          "hyperLink":"#"
-          }]
-          
-       },
-         "notifications":{
-          "count":"1",
-          "inotifications":[{
-       "text": "Lorepsum Ipsium",
-        "hyperLink":"#"
-       }]
-         },
-          "settings":{
-             "settingsList":[{
-             
-                 "routerLink":"#",
-                     "styleClass":[
-                                      "dummy1",
-                                      "dummy2"
-            ],
-            "label":"dummy2"
-         }]
-          },
-          "userControl":{
-             
-         "userImage":"assets/img/avatar1.jpg",
-         "name":"Harikrishnan V",
-         "designation":"Asst.Manager",
-         "userControls":{
-            "routerLink":"#",
-            "styleClass":[
-               "dummy1",
-               "dummy2"
-            ],
-            "label":"dummy2"
-         }
+    ],
+    "secondaryNavigation": {
+      "searchElement": null,
+      "messages": {
+        "count": null,
+        "imessages": [
+          {
+            "userAvatar": "image",
+            "fromUser": "Rajesh Arora",
+            "subjectTitle": "Accounts Updates",
+            "hyperLink": "#"
           }
-        
+        ]
       },
-      "breadCrumb":null,
-      "content":null,
-      "footer":null
-   }
+      "notifications": {
+        "count": null,
+        "inotifications": [
+          {
+            "text": "Lorepsum Ipsium",
+            "hyperLink": "#"
+          }
+        ]
+      },
+      "settings": {
+        "settingsList": [
+          {
+            "hyperLink": "#",
+            "styleClass": ["dummy1", "dummy2"],
+            "label": "dummy2"
+          }
+        ]
+      },
+      "userControl": {
+        "userImage": "assets/img/avatar1.jpg",
+        "name": "Harikrishnan V",
+        "designation": "Asst.Manager",
+        "userControls": [
+          {
+            "hyperLink": "#",
+            "styleClass": ["dummy1", "dummy2"],
+            "label": "dummy2"
+          }
+        ]
+      }
+    },
+    "breadcrumb": null,
+    "content": null,
+    "footer": null
+  }
 }
