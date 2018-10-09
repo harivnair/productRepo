@@ -69,16 +69,27 @@
             "fromUser": "Ramesh Saxena",
             "subjectTitle": "Administration Updates",
             "hyperLink": "#"
-          }
+          },
+          {
+            "userAvatar": "image",
+            "fromUser": "Shiny Ahuja",
+            "subjectTitle": "Assistant Accountant",
+            "hyperLink": "#"
+          },
         ]
       },
       "notifications": {
         "count": null,
         "inotifications": [
           {
-            "text": "Lorepsum Ipsium",
+            "text": "Notification #1",
+            "hyperLink": "#"
+          },
+          {
+            "text": "Notification #2",
             "hyperLink": "#"
           }
+          
         ]
       },
       "settings": {
