@@ -45,7 +45,7 @@
         "subHeader": "options",
         "isSubHeader": true,
         "menu": {
-          "label": "dummy2",
+          "label": "Exam Engine Dashboard",
           "hyperLink": "#",
           "styleClass": ["dumm2", "dumm22"],
           "isSubMenu": true,
