@@ -23,14 +23,14 @@
         "subHeader": "Layout",
         "isSubHeader": true,
         "menu": {
-          "label": "dummy",
+          "label": "Dashboard",
           "hyperLink": "#",
           "styleClass": ["dumm", "dumm2"],
           "isSubMenu": true,
           "subMenu": [
             {
               "hyperLink": "#",
-              "styleClass": ["dummy1", "dummy2"],
+              "styleClass": ["Exam Engine Dashboard", "dummy2"],
               "label": "dummy2"
             },
             {
