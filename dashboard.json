@@ -30,8 +30,8 @@
           "subMenu": [
             {
               "hyperLink": "#",
-              "styleClass": ["Exam Engine Dashboard", "dummy2"],
-              "label": "dummy2"
+              "styleClass": ["Style Class1", "Style Class2"],
+              "label": "Exam Engine Dashboard"
             },
             {
               "hyperLink": "#",
