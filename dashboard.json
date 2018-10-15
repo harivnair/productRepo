@@ -31,12 +31,12 @@
             {
               "hyperLink": "#",
               "styleClass": ["Style Class1", "Style Class2"],
-              "label": "Exam Engine Dashboard"
+              "label": "Submenu"
             },
             {
               "hyperLink": "#",
               "styleClass": ["dummy1", "dummy2"],
-              "label": "dummy2"
+              "label": "Exam Engine Dashboard"
             }
           ]
         }
