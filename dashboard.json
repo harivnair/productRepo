@@ -23,7 +23,7 @@
         "subHeader": "Layout",
         "isSubHeader": true,
         "menu": {
-          "label": "Dashboard",
+          "label": "Layout",
           "hyperLink": "#",
           "styleClass": ["dumm", "dumm2"],
           "isSubMenu": true,
@@ -36,7 +36,7 @@
             {
               "hyperLink": "#",
               "styleClass": ["dummy1", "dummy2"],
-              "label": "Submenu 1"
+              "label": "Subs 1"
             }
           ]
         }
