@@ -45,7 +45,7 @@
         "subHeader": "options",
         "isSubHeader": true,
         "menu": {
-          "label": "Menu",
+          "label": "Dashboards",
           "hyperLink": "#",
           "styleClass": ["dumm2", "dumm22"],
           "isSubMenu": true,
@@ -53,7 +53,7 @@
             {
               "hyperLink": "#",
               "styleClass": ["dummy12", "dummy22"],
-              "label": "Sub Menu"
+              "label": "Exam Engine"
             }
           ]
         }
